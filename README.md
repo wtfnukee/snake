@@ -1,1 +1,1 @@
-# snake
+# Just open it with browser and have fun!
